@@ -1,0 +1,28 @@
+thead,
+tfoot {
+  background-color: #333;
+  color: #fff;
+}
+
+p{
+  color: red
+}
+
+
+img {
+  border-radius: 50%;
+}
+
+
+body{
+  background-color: #8bb9ff;
+}
+hr {
+  border-color: gray;
+  border-width: 5px;
+  border-style: dotted none none;
+  width: 30%;
+}
+h1,h3{
+  color: #42855B
+}
